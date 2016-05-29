@@ -1,3 +1,4 @@
-# Learn c++ through practical application development
-HAPPY LEARNING
+# Learn c++ 
+-through practical application development
+
 BE WIRED!!!!
