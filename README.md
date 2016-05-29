@@ -1,3 +1,3 @@
-# Learn c++ through building a program like professionals
+# Learn c++ through practical application development
 HAPPY LEARNING
 BE WIRED!!!!
