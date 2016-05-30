@@ -1,4 +1,3 @@
-# Learn c++ 
--through practical application development
+# ---####
+-Through practical application development
 
-BE WIRED!!!!
